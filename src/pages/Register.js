@@ -12,7 +12,6 @@ import {
 import { useNavigation } from "@react-navigation/native";
 import axios from "axios";
 import * as ImagePicker from "expo-image-picker";
-import ImageResizer from '@bam.tech/react-native-image-resizer';
 
 
 
